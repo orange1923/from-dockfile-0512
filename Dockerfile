@@ -1,1 +1,1 @@
-FROM dock0509qq/te05st09:latest
+FROM daxia2023/ndjs:user-30-argo-nez2
